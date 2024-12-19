@@ -5,3 +5,6 @@ import datetime  # Import datetime module for date and time operations
 import json  # Import json module for JSON handling
 
 
+transactions = {}
+
+
