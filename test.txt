@@ -1,0 +1,7 @@
+income,salary,20.0,2021-02-03
+income,from house rent,123.0,2021-03-02
+expense,grocery,45236.0,2024-02-03
+expense,educational expenses,152.0,2021-03-12
+income,selling extra foods,1235.0,2024-02-05
+income,fromselling,1000.0,2024-02-02
+Expense,gh,123.0,2024-10-20
